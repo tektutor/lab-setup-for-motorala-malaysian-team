@@ -1,4 +1,13 @@
-## All participants shall install Ubuntu 24.04 
+## All participants shall install Ubuntu 24.04 using VirtualBox on Windows
+<pre>
+https://www.virtualbox.org/wiki/Downloads  
+</pre>  
+
+Creating Virtual Machine
+<pre>
+https://www.virtualbox.org/manual/UserManual.html#create-vm-wizard  
+</pre>
+
 
 ## Installing Docker Community Edition in Ubuntu 24.04 64-bit OS
 ```
