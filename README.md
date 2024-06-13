@@ -35,3 +35,7 @@ alias kubectl="minikube kubectl --"
 kubectl get nodes
 ```
 
+## Installing Azure CLI in Ubuntu 24.04 bit OS
+```
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+```
